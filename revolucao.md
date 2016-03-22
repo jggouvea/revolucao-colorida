@@ -4,99 +4,42 @@
 
 Tudo indica que há uma “revolução colorida” acontecendo no Brasil, apenas não sabemos ainda até onde vai e nem quem estará no controle no fim do processo.
 
-Esta afirmação é cautelosa, porém. Todos nós, na esquerda, mais ou menos
-sabemos as respostas, apenas estamos um pouco cautelosos porque não
-gostamos de dizer besteiras cedo, outros sabem mas preferem fingir
-ceticismo por não terem provas e outros, esses são os piores, acham que
-as pessoas vão gostar de seu número depois que o circo pegar fogo.
+Esta afirmação é cautelosa, porém. Todos nós, na esquerda, mais ou menos sabemos as respostas, apenas estamos um pouco cautelosos porque não gostamos de dizer besteiras cedo, outros sabem mas preferem fingir ceticismo por não terem provas e outros, esses são os piores, acham que as pessoas vão gostar de seu número depois que o circo pegar fogo.
 
-***Importante***: Este é um assunto muito difícil e uma resposta boa
-requer uma montanha de pesquisa. Esta resposta é uma tentativa de
-entender o que está acontecendo, com base nos dados que eu já tenho.
-Gostaria de contar com o *feedback* dos leitores para continuar montando
-o quebra-cabeças.
+***Importante***: Este é um assunto muito difícil e uma resposta boa requer uma montanha de pesquisa. Esta resposta é uma tentativa de nentender o que está acontecendo, com base nos dados que eu já tenho. Gostaria de contar com o *feedback* dos leitores para continuar montando o quebra-cabeças.
 
-***AVISO*****: ESTA RESPOSTA INCLUI IMAGENS DE ESTUPIDEZ EXPLÍCITA E
-REACIONARISMO GALOPANTE QUE PODERÃO CHOCAR OS MAIS SENSÍVEIS. AVISO AOS
-FRÁGEIS DE CORAÇÃO QUE NÃO LEIAM, OU PELO MENOS LEIAM DESATIVANDO O
-CARREGAMENTO DE IMAGENS NO NAVEGADOR.**
+***AVISO*****: ESTA RESPOSTA INCLUI IMAGENS DE ESTUPIDEZ EXPLÍCITA E REACIONARISMO GALOPANTE QUE PODERÃO CHOCAR OS MAIS SENSÍVEIS. AVISO AOS FRÁGEIS DE CORAÇÃO QUE NÃO LEIAM, OU PELO MENOS LEIAM DESATIVANDO O CARREGAMENTO DE IMAGENS NO NAVEGADOR.**
 
-O Que É uma Revolução Colorida?
-===============================
+## O Que É uma Revolução Colorida?
 
 > O único país do mundo onde nunca haverá um golpe de estado são os Estados Unidos, porque lá não há embaixada dos Estados Unidos — Evo Morales, presidente da Bolívia.
 
-Precisamos começar explicando o con­ceito, pois o leitor médio
-brasileiro certamente não o conhece. Afinal, se o brasileiro médio
-soubesse dessas coi­sas não seria facilmente mani­pulado.
+Precisamos começar explicando o conceito, pois o leitor médio brasileiro certamente não o conhece. Afinal, se o brasileiro médio soubesse dessas coisas não seria facilmente manipulado.
 
-![](revcor.jpg =123x57) “Revolução Colorida” é o nome gené­rico pelo 
-qual as esquerdas designaram uma categoria de processos de mudança 
-de regime, *geralmente ocorridos em países cujos governos se opõem 
-aos interesses geopolíticos dos Estados Unidos,* que parecem seguir 
-um padrão. Referido padrão inclui:
+![](revcor.jpg)
+
+“Revolução Colorida” é o nome genérico pelo qual as esquerdas designaram uma categoria de processos de mudança de regime, *geralmente ocorridos em países cujos governos se opõem aos interesses geopolíticos dos Estados Unidos,* que parecem seguir um padrão. Referido padrão inclui:
 
 1.  O início é baseado em algum tipo de difusão pelas mídias sociais.
-2.  O pretexto varia, mas está relacionado a excessivo autoritarismo (Sérvia, Quirguistão, Rússia, Irã, Tunísia, Egito), corrupção
-    (Geórgia, Rússia, Tunísia, Egito) ou fraudes eleitorais
-    (Irã, Ucrânia). Em geral os três pretextos são usados
-    simultaneamente, predominando no fim aquele com o qual o povo se
-    identifique mais.
-3.  A adoção de símbolos tradicionalmente de esquerda (punho cerrado,
-    cor preta, slogans).
-4.  A adoção de uma ou mais cores como símbolo do movimento, nem sempre
-    as mesmas cores nacionais, mas às vezes sim. Alguns desses
-    movimentos ficaram conhecidos por cores (preto na Sérvia, laranja na
-    Ucrânia, cor-de-rosa na Geórgia, amarelo no Quirguistão, verde
-    no Irã) ou por serem associados a flores (jasmim na Tunísia, cedro
-    no Líbano, lótus no Egito).
-5.  O aparecimento de movimentos paramilitares de direita como
-    linha auxiliar.
-6.  Ênfase em lideranças jovens e descartáveis (trocadas rapidamente)
-    que, às vezes, convergem para um líder político tradicional
-    (Yushenko, na Ucrânia, Sakhashvili na Geórgia, Rafik Hariri no
-    Líbano, Hussein Mussawi no Irã). Esse líder, se não reprimido pelo
-    próprio regime, será morto por desconhecidos (Hariri) ou sofrerá
-    algum atentado (Yushenko).
-7.  O fomento de separatistas para justificar um endurecimento do estado
-    na fase final ou para realmente criar uma situação de instabilidade
-    e destruir o país.
+2.  O pretexto varia, mas está relacionado a excessivo autoritarismo (Sérvia, Quirguistão, Rússia, Irã, Tunísia, Egito), corrupção (Geórgia, Rússia, Tunísia, Egito) ou fraudes eleitorais (Irã, Ucrânia). Em geral os três pretextos são usados simultaneamente, predominando no fim aquele com o qual o povo se identifique mais.
+3.  A adoção de símbolos tradicionalmente de esquerda (punho cerrado, cor preta, slogans).
+4.  A adoção de uma ou mais cores como símbolo do movimento, nem sempre as mesmas cores nacionais, mas às vezes sim. Alguns desses movimentos ficaram conhecidos por cores (preto na Sérvia, laranja na Ucrânia, cor-de-rosa na Geórgia, amarelo no Quirguistão, verde no Irã) ou por serem associados a flores (jasmim na Tunísia, cedro no Líbano, lótus no Egito).
+5.  O aparecimento de movimentos paramilitares de direita como linha auxiliar.
+6.  Ênfase em lideranças jovens e descartáveis (trocadas rapidamente) que, às vezes, convergem para um líder político tradicional (Yushenko, na Ucrânia, Sakhashvili na Geórgia, Rafik Hariri no Líbano, Hussein Mussawi no Irã). Esse líder, se não reprimido pelo próprio regime, será morto por desconhecidos (Hariri) ou sofrerá    algum atentado (Yushenko).
+7.  O fomento de separatistas para justificar um endurecimento do estado na fase final ou para realmente criar uma situação de instabilidade e destruir o país.
 8.  A cooptação de estruturas do estado por elementos para-estatais.
-9.  A ocorrência de um episódio de violência emblemático que aumenta a
-    comoção e faci­lita a ruptura institucional (Ucrânia, Sérvia,
-    Geórgia, Quirguistão, Líbano, Líbia, Tunísia).
-10. A tomada do poder por um governo de direita, que logo se move ainda
-    mais para a direita, e começa uma política de total alinhamento com
-    os Estados Unidos ou, pelo menos, de relativa neutralidade.
+9.  A ocorrência de um episódio de violência emblemático que aumenta a comoção e facilita a ruptura institucional (Ucrânia, Sérvia, Geórgia, Quirguistão, Líbano, Líbia, Tunísia).
+10. A tomada do poder por um governo de direita, que logo se move ainda mais para a direita, e começa uma política de total alinhamento com os Estados Unidos ou, pelo menos, de relativa neutralidade.
 
-A conclusão definitiva requer a produção desta ligação essencial entre o
-que se vê no Brasil e o que se viu nessas revoluções até agora. Não
-importa realmente o que eu venha a argumentar aqui, o que é essencial é
-documentar de toda forma o que está acontecendo, e recuperar o que
-aconteceu nas últimas semanas e meses, talvez anos, para pormos os
-pingos nos is e concluir se o nosso caso é idêntico ou apenas semelhante
-ao que houve naqueles países.
+A conclusão definitiva requer a produção desta ligação essencial entre o que se vê no Brasil e o que se viu nessas revoluções até agora. Não importa realmente o que eu venha a argumentar aqui, o que é essencial é documentar de toda forma o que está acontecendo, e recuperar o que aconteceu nas últimas semanas e meses, talvez anos, para pormos os pingos nos is e concluir se o nosso caso é idêntico ou apenas semelhante ao que houve naqueles países.
 
-Hoje sabemos, com certeza, que o governo dos Estados Unidos estava
-envolvido na derrubada de João Goulart em 1964. Não precisaremos esperar
-quarenta anos para entendermos a crise brasileira de 2016 se
-conseguirmos conectar corretamente os pontos.
+Hoje sabemos, com certeza, que o governo dos Estados Unidos estava envolvido na derrubada de João Goulart em 1964. Não precisaremos esperar quarenta anos para entendermos a crise brasileira de 2016 se conseguirmos conectar corretamente os pontos.
 
-Em 2013 eu escrevi um artigo para o meu blog de política (hoje
-paralisado) chamado “[Revolutions,
-Inc.](http://arapucas.letraseletricas.blog.br/revolutions-inc)”, que foi
-a minha primeira tentativa de entender o fenômeno. Ele começa assim:
+Em 2013 eu escrevi um artigo para o meu blog de política (hoje paralisado) chamado “[Revolutions, Inc.](http://arapucas.letraseletricas.blog.br/revolutions-inc)”, que foi a minha primeira tentativa de entender o fenômeno. 
 
-Bom dia para você, reacionário de direita travestido de jovem
-anarquista, que saiu às ruas nesse fim de semana querendo causar
-impacto. Devia ter ouvido o Humberto Gessinger e feito o pacto.[^1] Você
-está, conscientemente ou não, fazendo seu trabalho de formiguinha na
-preparação do caos. Eu sou astrólogo, vocês precisam acreditar em mim.
-Eu sou astrólogo e conheço a história do princípio ao fim.[^2]
+Bom dia para você, reacionário de direita travestido de jovem anarquista, que saiu às ruas nesse fim de semana querendo causar impacto. Devia ter ouvido o Humberto Gessinger e feito o pacto.[^1] Você está, conscientemente ou não, fazendo seu trabalho de formiguinha na preparação do caos. Eu sou astrólogo, vocês precisam acreditar em mim. Eu sou astrólogo e conheço a história do princípio ao fim.[^2]
 
-Este é o símbolo do movimento popular que derrubou o presidente da
-Sérvia, Slobodan Milosevic, em 2000. Nós o reencontraremos em outros
-contextos, mas por enquanto preste atenção ao símbolo do punho fechado
+![](otpor.png) Este é o símbolo do movimento popular que derrubou o presidente da Sérvia, Slobodan Milosevic, em 2000. Nós o reencontraremos em outros contextos, mas por enquanto preste atenção ao símbolo do punho fechado
 (normalmente usado por anarquistas ou socialistas) e na fonética do nome
 *otpor*, que significa “resistência” em sérvo-croata, mas soa parecido
 com a palavra inglesa *outpour*, que significa “extravasar”. Observe

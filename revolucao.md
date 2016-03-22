@@ -1,4 +1,4 @@
-Temos Uma Revolução Colorida No Brasil?
+# Temos Uma Revolução Colorida No Brasil?
 
 > Não acrediteis em algo apenas por ouvir dizer. Não acrediteis nas tradições só porque foram transmitidas desde muitas gerações. Não acrediteis em algo só por ser dito e repetido por muitas pessoas. Não acrediteis em algo só pelo testemunho de um sábio venerável. Não acrediteis em algo só porque as probabilidades o favorecem ou porque o costume vos faz tê-lo por verdade. Não acrediteis no que imaginastes pensando que um ser superior o revelou. Não acrediteis em coisa alguma apenas pela autoridade de vossos anciães ou mestres. Mas, aquilo que vós mesmos experimentastes, provastes e reconhecestes como verdadeiro, o que corresponde ao vosso bem e ao bem dos outros, isto, sim, deveis aceitar, e, por isso, moldar a vossa conduta. — Siddharta Gautama.
 
@@ -30,7 +30,7 @@ Precisamos começar explicando o con­ceito, pois o leitor médio
 brasileiro certamente não o conhece. Afinal, se o brasileiro médio
 soubesse dessas coi­sas não seria facilmente mani­pulado.
 
-![](./revcor.jpg =123x57) “Revolução Colorida” é o nome gené­rico pelo 
+![](revcor.jpg =123x57) “Revolução Colorida” é o nome gené­rico pelo 
 qual as esquerdas designaram uma categoria de processos de mudança 
 de regime, *geralmente ocorridos em países cujos governos se opõem 
 aos interesses geopolíticos dos Estados Unidos,* que parecem seguir 

@@ -184,18 +184,18 @@ a:hover, a:focus { color: #4183c4; }
 a img { border: none; }
 
 /* Default paragraph styles */
-p { font-family: helvetica, arial, freesans, clean, sans-serif; font-weight: normal; font-size: 1em; line-height: 1.4; margin-bottom: 1em; text-rendering: optimizeLegibility; }
+p { font-family: helvetica, arial, freesans, clean, sans-serif; font-weight: normal; font-size: 1em; text-align: justify; line-height: 1.4; margin-bottom: 1em; text-rendering: optimizeLegibility; }
 p aside { font-size: 0.93333em; line-height: 1.35; font-style: italic; }
 
 /* Default header styles */
-h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 { font-family: helvetica, arial, freesans, clean, sans-serif; font-weight: bold; font-style: normal; color: #333333; text-rendering: optimizeLegibility; margin-top: 0.2em; margin-bottom: 0.5em; line-height: 1.2em; }
-h1 small, h2 small, h3 small, #toctitle small, .sidebarblock > .content > .title small, h4 small, h5 small, h6 small { font-size: 60%; color: gray; line-height: 0; }
+h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 { font-family: helvetica, arial, freesans, clean, sans-serif; font-weight: bold; font-style: normal; color: #000000; text-rendering: optimizeLegibility; margin-top: 0.2em; margin-bottom: 0.5em; line-height: 1.2em; text-align: justify}
+h1 small, h2 small, h3 small, #toctitle small, .sidebarblock > .content > .title small, h4 small, h5 small, h6 small { font-size: 60%; color: black; text-align: justify; line-height: 0; }
 
 h1 { font-size: 1.33333em; }
 
 h2 { font-size: 0.93333em; }
 
-h3, #toctitle, .sidebarblock > .content > .title { font-size: 0.86667em; }
+h3, #toctitle, .sidebarblock > .content > .title { font-size: 0.86667em; text-align: justify }
 
 h4 { font-size: 0.66667em; }
 
@@ -321,7 +321,7 @@ b.button:after { content: "]"; padding: 0 2px 0 3px; }
 
 #content > h1:first-child:not([class]) { color: #333333; font-weight: 300; border-bottom: 1px solid #dddddd; padding-bottom: 8px; margin-top: 0; padding-top: 1rem; margin-bottom: 1.25rem; }
 
-#toc { border-bottom: 0 solid #dddddd; padding-bottom: 0.5em; }
+#toc { border: 3px solid #dddddd; padding: 1ex; }
 #toc > ul { margin-left: 0.13333em; }
 #toc ul.sectlevel0 > li > a { font-style: italic; }
 #toc ul.sectlevel0 ul.sectlevel1 { margin: 0.5em 0; }
@@ -368,7 +368,7 @@ b.button:after { content: "]"; padding: 0 2px 0 3px; }
 
 .audioblock, .imageblock, .literalblock, .listingblock, .stemblock, .videoblock { margin-bottom: 1.33333em; }
 
-.admonitionblock td.content > .title, .audioblock > .title, .exampleblock > .title, .imageblock > .title, .listingblock > .title, .literalblock > .title, .stemblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, table.tableblock > .title, .verseblock > .title, .videoblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title { text-rendering: optimizeLegibility; text-align: left; }
+.admonitionblock td.content > .title, .audioblock > .title, .exampleblock > .title, .imageblock > .title, .listingblock > .title, .literalblock > .title, .stemblock > .title, .openblock > .title, .paragraph > .title, .quoteblock > .title, table.tableblock > .title, .verseblock > .title, .videoblock > .title, .dlist > .title, .olist > .title, .ulist > .title, .qlist > .title, .hdlist > .title { text-rendering: optimizeLegibility; text-align: justify; }
 
 table.tableblock > caption.title { white-space: nowrap; overflow: visible; max-width: 0; }
 
@@ -685,7 +685,7 @@ h2 { color: #325D72; border-bottom: 1px solid #dddddd; }
 
 #header, #content, #footnotes { max-width: 660px; padding-left: 0; padding-right: 0; }
 
-#content ul { list-style-type: none; }
+#content ul { list-style-type: square; }
 #content ul li { background: url('../images/github/li-chevron.png?1458941341') 0 0.4em no-repeat; padding-left: .7em; }
 
 .olist.procedure > ol { counter-reset: li; list-style: none; position: relative; }
